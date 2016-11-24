@@ -1,0 +1,6 @@
+
+package person;
+
+public enum HairColor {
+    BLONDE, BROWN, BLACK, RED, ORANGE, PINK, BLUE, GREEN, PURPLE, OTHER
+}
